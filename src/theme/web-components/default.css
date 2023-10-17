@@ -1,0 +1,9 @@
+body {
+    --cuu-feature-bg: #252017;
+    --cuu-feature-fg: #f2e8d5;
+    --cuu-feature-support-bg: #0b6316;
+    --cuu-feature-unknown-bg: #464646;
+    --cuu-feature-not-support-bg: #86261a;
+    --cuu-feature-footer-bg: #382e22;
+    --cuu-feature-current-color: #382e22;
+}
